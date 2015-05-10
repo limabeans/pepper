@@ -1,2 +1,2 @@
 # pepper
-Chat in a tab
+chat in a tab
